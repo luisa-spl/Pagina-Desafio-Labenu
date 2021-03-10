@@ -1,0 +1,96 @@
+body{
+    margin: 0px;
+    padding: 0p;
+   background: rgb(85,94,151);
+}
+.box{
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 12vh 30vh 12vh;
+}
+header{
+  background: rgb(85,94,151);
+  height: 150px;
+  grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  text-align: center;
+  color: white;
+  margin-top: 5px;
+  font-family:calibri;
+  font-size: 70%;
+}
+main{
+  background: rgb(85,94,151);
+  height: 110%;
+  grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start: 2;
+  grid-row-end: 3;
+  margin-top: 10px;
+}
+footer{
+  background: rgb(85,94,151);
+  height: 55px;
+  grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start: 3;
+  grid-row-end: 4;
+  margin-right:10px;
+  margin-top: 20px;
+}
+ img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    height: 50%;
+    width: 60%;
+  }
+  p{
+  color:rgb(253,253,253);
+  font-family:calibri;
+  font-size:1.25em;
+  text-align: right;
+   }
+  .flex-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(235, 73, 1);
+    width: auto;
+    height: 25vh;
+  }
+  .flex-container > div {
+    background-color: white;
+    align-content: espace-evenly;
+    width: 20%;
+    height: 50%;
+    box-sizing: border-box;
+    font-size: 100%;
+    font-family: calibri;
+    color: rgb(235,73,1);
+    text-align: center;
+    padding-top: 35px;
+  }
+  .container{
+    display: flex;
+    justify-content: center;
+    background-color: gainsboro;
+    width: auto;
+    height: 20vh;
+  }
+  #tbutton {
+  background: rgb(235, 73, 1);
+  margin-top: 50px;
+  color: white;
+  height: 30px;
+}
+#tmail{
+  height: 25px;
+}
+p.welcome{
+  color: white;
+  font-family: calibri;
+}
