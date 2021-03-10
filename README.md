@@ -16,6 +16,7 @@ Para deixar o seu projeto mais completo e versátil, trouxemos alguns desafios! 
 - **Desafio 3:** Incluir um texto de boas vindas quando o usuário enviar seu email. Quando o usuário clicar no botão enviar, a página deve ser atualizada para incluir um texto no formato "Bem vindo <email digitado pelo participante>!".
 
 <B>LAYOUT DA LABENU - RESPONSIVO </B>
+<br>
 ![download](https://user-images.githubusercontent.com/77130294/110686112-ca6ee780-81bd-11eb-9ef5-78e47e9b29ea.png)
 
 <B>LAYOUT DA LABENU - WEB</B>
