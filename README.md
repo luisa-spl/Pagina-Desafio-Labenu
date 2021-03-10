@@ -14,3 +14,20 @@ Para deixar o seu projeto mais completo e versátil, trouxemos alguns desafios! 
 - **Desafio 1:** Preparar o site para ser apresentado em telas mobile. Fica a critério do participante a melhor forma de ajustar o conteúdo do site para plataformas mobile. Para avaliar esse desafio extra, nossa equipe vai abrir o mesmo arquivo index.html em um iphoneX. (exemplo no arquivo responsive.png)
 - **Desafio 2:** Realizar a verificação de email válido no texto digitado pelo usuário no campo "email". Essa verificação deve ser realizada utilizando javascript. Se o email for inválido a mensagem "Email inválido" deve ser apresentada no site utilizando a função alert() do javascript.
 - **Desafio 3:** Incluir um texto de boas vindas quando o usuário enviar seu email. Quando o usuário clicar no botão enviar, a página deve ser atualizada para incluir um texto no formato "Bem vindo <email digitado pelo participante>!".
+
+<B>LAYOUT DA LABENU - RESPONSIVO </B>
+![download](https://user-images.githubusercontent.com/77130294/110686112-ca6ee780-81bd-11eb-9ef5-78e47e9b29ea.png)
+
+<B>LAYOUT DA LABENU - WEB</B>
+<br>
+![layoutweb](https://user-images.githubusercontent.com/77130294/110686981-c68f9500-81be-11eb-81d7-4f1fe8cd3203.png)
+
+<b>RESULTADO DO DESAFIO - WEB</B>
+<br>
+![resultweb](https://user-images.githubusercontent.com/77130294/110692926-a6170900-81c5-11eb-883f-c05392559ca3.png)
+
+<b>RESULTADO DO DESAFIO - RESPONSIVO</B>
+![resultResponsivo](https://user-images.githubusercontent.com/77130294/110693433-2f2e4000-81c6-11eb-8eb0-a36262a6cd45.jpg)
+
+
+
